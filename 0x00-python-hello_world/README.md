@@ -1,0 +1,1 @@
+a readme for basics or day one of python tasks and project on ALX
