@@ -1,0 +1,1 @@
+a readme for practicing data structures especially lists and tuples on ALX project tasks
