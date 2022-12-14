@@ -1,7 +1,7 @@
-# include "/usr/include/python3.4/Python.h"
-# include <stdio.h>
+#include "/usr/include/python3.4/Python.h"
+#include <stdio.h>
 
-void print_hexn(const char * str, int n)
+void print_hexn(const char *str, int n)
 {
 	int i = 0;
 
